@@ -1,0 +1,7 @@
+{
+  "app_name": "Mzu ChatKit",
+  "workflows": {
+    "rapportini": "wf_XXXXXXXXXXXXXXXXXXXXXXXX",
+    "prezzario": "wf_YYYYYYYYYYYYYYYYYYYYYYYY"
+  }
+}
